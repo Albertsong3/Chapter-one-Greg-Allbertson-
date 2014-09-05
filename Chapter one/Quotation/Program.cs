@@ -9,6 +9,7 @@ namespace Quotation
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("If you aint first your last");
         }
     }
 }
