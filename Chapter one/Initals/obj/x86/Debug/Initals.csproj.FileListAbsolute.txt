@@ -1,0 +1,4 @@
+C:\Users\eahscs\Documents\GitHub\Chapter-one-Greg-Allbertson-\Chapter one\Initals\bin\Debug\Initals.exe
+C:\Users\eahscs\Documents\GitHub\Chapter-one-Greg-Allbertson-\Chapter one\Initals\bin\Debug\Initals.pdb
+C:\Users\eahscs\Documents\GitHub\Chapter-one-Greg-Allbertson-\Chapter one\Initals\obj\x86\Debug\Initals.exe
+C:\Users\eahscs\Documents\GitHub\Chapter-one-Greg-Allbertson-\Chapter one\Initals\obj\x86\Debug\Initals.pdb

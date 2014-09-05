@@ -1,0 +1,4 @@
+C:\Users\eahscs\Documents\GitHub\Chapter-one-Greg-Allbertson-\Chapter one\Chapter one\bin\Debug\Chapter one.exe
+C:\Users\eahscs\Documents\GitHub\Chapter-one-Greg-Allbertson-\Chapter one\Chapter one\bin\Debug\Chapter one.pdb
+C:\Users\eahscs\Documents\GitHub\Chapter-one-Greg-Allbertson-\Chapter one\Chapter one\obj\x86\Debug\Chapter one.exe
+C:\Users\eahscs\Documents\GitHub\Chapter-one-Greg-Allbertson-\Chapter one\Chapter one\obj\x86\Debug\Chapter one.pdb

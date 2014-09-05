@@ -1,0 +1,4 @@
+C:\Users\eahscs\Documents\GitHub\Chapter-one-Greg-Allbertson-\Chapter one\Quotation\bin\Debug\Quotation.exe
+C:\Users\eahscs\Documents\GitHub\Chapter-one-Greg-Allbertson-\Chapter one\Quotation\bin\Debug\Quotation.pdb
+C:\Users\eahscs\Documents\GitHub\Chapter-one-Greg-Allbertson-\Chapter one\Quotation\obj\x86\Debug\Quotation.exe
+C:\Users\eahscs\Documents\GitHub\Chapter-one-Greg-Allbertson-\Chapter one\Quotation\obj\x86\Debug\Quotation.pdb
